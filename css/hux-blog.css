@@ -92,8 +92,10 @@ a img:focus {
   cursor: zoom-in;
 }
 article {
-  overflow-x: hidden;
+  overflow: hidden
 }
+/*overflow-x: hidden;
+  */
 blockquote {
   color: #808080;
   font-style: italic;
