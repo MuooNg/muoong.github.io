@@ -1,12 +1,12 @@
 # Site settings
 title: Muoong Blog
-SEOTitle: 木少的博客 | MuooNG Blog
-header-img: img/post-bg-desk.jpg
+SEOTitle: 木NG的博客 | MuooNG Blog
+header-img: img/home-bg.jpg
 email: mgz.sns@outlook.com
-description: "发呆的好地方,分享自己的生活的另一个好地方"
-keyword: "MUNG, Muoong Blog, 木少的博客, wuweisong, 吴伟松,设计平面,视觉传达艺术设计"
-url: ""              # your host, for absolute URL
-baseurl: ""         # for example, '/blog' if your blog hosted on 'host/blog'
+description: "发呆的好地方,分享自己的生活的另一个好地方 | | 这里是 木NG 的个人博客，与你一起分享设计与生活。"
+keyword: "MUNG, Muoong Blog, 木少的博客, wuweisong, 吴伟松,设计平面,视觉传达艺术设计,设计"
+url: "https://muoong.com"              # your host, for absolute URL
+baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 
 
@@ -15,8 +15,9 @@ RSS: false
 weibo_username:     MuooNG
 zhihu_username:     wuweisong
 github_username:    MuooNG
-#twitter_username:  MuooNg
-facebook_username:  Mu00NG
+twitter_username:   huxpro
+facebook_username:  MuooNG
+# linkedin_username:  firstname-lastname-idxxxx
 
 
 
@@ -25,8 +26,8 @@ facebook_username:  Mu00NG
 highlighter: rouge
 permalink: pretty
 paginate: 10
-exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
-anchorjs: no                          # true/no-------if you want to customize anchor. check out line:181 of `post.html`
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md","README.zh.md"]
+anchorjs: true                          # if you want to customize anchor. check out line:181 of `post.html`
 
 
 
@@ -47,30 +48,26 @@ kramdown:
 
 
 # Disqus settings
-#disqus_username: _your_disqus_short_name_
+disqus_username: muoong-com
 
-# Duoshuo settings
-duoshuo_username: huxblog
-# Share component is depend on Comment so we can NOT use share only.
-duoshuo_share: true                     # set to false if you want to use Comment without Sharing
-
+# Netease setttings
+netease_comment: false
 
 
 
 # Analytics settings
 # Baidu Analytics
-ba_track_id: #4cc1f2d8f3067386cc5cdb626a202900
+# ba_track_id: [your track id]
+
 # Google Analytics
-ga_track_id: UA-106880665-1             # Format: UA-xxxxxx-xx
-ga_domain:  muoong.com
-  #'UA-49627206-1'
-  #huangxuan.me
+ga_track_id: 'UA-106880665-1'            # Format: UA-xxxxxx-xx
+ga_domain: muoong.com
 
 
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "发呆的地方,分享自己的生活的好地方,。"
+sidebar-about-description: "发呆的地方,分享自己的生活的好地方，<br>在离开世界之前，一切皆是过程"
 sidebar-avatar: /img/about-MU-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
@@ -81,22 +78,19 @@ featured-condition-size: 1              # A tag will be featured if the size of 
 
 
 
+# Progressive Web Apps
+chrome-tab-theme-color: "#000000"
+service-worker: true
+
+
+
 # Friends
-#friends: [
-#    {
-  #      title: "MuooNG Blog",
-    #    href: "http://MuooNG.com"
-#    },{
-    #    title: "Foo",
-      #  href: "#"
-  #  },{
-  #      title: "Bar",
-  #      href: "#"
-    #},{
-    #    title: "Example Friends",
-    #    href: "#"
-  #  },{
-  #      title: "It helps SEO",
-    #    href: "#"
-  #  }
-#
+friends: [
+    {
+    #     title: "Su",
+    #     href: "http://su.gallery/"
+    # },{
+        title: "Hux",
+        href: "https://huangxuan.me/"
+    }
+]
