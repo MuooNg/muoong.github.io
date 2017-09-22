@@ -26,7 +26,7 @@ highlighter: rouge
 permalink: pretty
 paginate: 10
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
-anchorjs: true                          # if you want to customize anchor. check out line:181 of `post.html`
+anchorjs: no                          # true/no-------if you want to customize anchor. check out line:181 of `post.html`
 
 
 
@@ -61,8 +61,8 @@ duoshuo_share: true                     # set to false if you want to use Commen
 # Baidu Analytics
 ba_track_id: #4cc1f2d8f3067386cc5cdb626a202900
 # Google Analytics
-ga_track_id:             # Format: UA-xxxxxx-xx
-ga_domain:
+ga_track_id: UA-106880665-1             # Format: UA-xxxxxx-xx
+ga_domain:  muoong.com
   #'UA-49627206-1'
   #huangxuan.me
 
