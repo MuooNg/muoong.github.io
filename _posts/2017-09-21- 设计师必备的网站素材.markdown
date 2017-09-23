@@ -13,16 +13,19 @@ tags:
 ---
 # DesignResource
 
+----------
  A curated list of awesome resource for designers.
 
 
- 嗨呀,从大学开始学设计不多有近3年,每次做一个项目都需要收集大量的素材和灵感,整理了一系列的Bookmark在edge收藏栏中.最近想着重新整理放上github和做一个离线网页.不出意外会持续更新:blush:
+从大学开始学设计不多有近3年,每次做一个项目都需要收集大量的素材和灵感,整理了一系列的Bookmark在edge收藏栏中.最近想着重新整理放上github和做一个离线网页.不出意外会持续更新:blush:
+
  PS:另外打不开网页的可能需要翻墙,如果翻墙都打不开...估计网站挂了,欢迎大家也推荐自己收藏的资源，加入这个project并一起持续更新~:stuck_out_tongue_closed_eyes:
    创建这个界面只是学习基础的Markdown语法和个人设计时候需要以及方便寻找灵感.有一部分直接从旁边提取的,
 
+   ##### 有好的站点或者什么问题可以评论噢
 
 ----------
-## Art
+## 历史艺术
 
 + [WikiArt](https://www.wikiart.org/): 维基艺术,2000+国外名家作品欣赏
 
@@ -33,11 +36,10 @@ tags:
 + [TheFWA](https://thefwa.com/): FWA的使命是向人们展示最前沿的创意，无论是使用媒介或技术
 + [资料视觉化](http://blog.infographics.tw/): 个人博客,只更新到2016年,之后成为失踪人口之一
 
-## 灵感
+## 灵感/优秀设计站点
 
 + [Awwwards](https://www.awwwards.com): 最佳的网页设计趋势
 + [One Page Love](http://onepagelove.com/): 最好的/优秀的着陆页和网站灵感
-+ [Inspired UI](http://inspired-ui.com/): 移动应用设计方案
 + [Behance](http://behance.net/): 展示,发现创意工作
 + [Dribbble](http://dribbble.com/): 相信米娜桑对追波都不陌生。在这里我们能看到来自世界各地的专业人士所设计的作品
 + [Product Hunt](http://producthunt.com/): Product Hunt每天都会展示最好的新产品
@@ -48,6 +50,13 @@ tags:
 + [Thefwa](https://thefwa.com/): 主要展示graphic design(平面设计)
 + [MyDesy](https://pick.mydesy.com/): 创意人，每天从这里开始启动灵感
 + [Pixeden](https://www.pixeden.com/): 一个为设计师们提供免费和收费的设计素材及网络资源，网页模版、logo设计、平面设计等等
++ [Yalantis](https://github.com/Yalantis): 致力于提供世界一流的 Android 和 iOS 应用开发服务, 因一些动画很棒的开源库为大家所熟知。
++ [花瓣网](http://huaban.com/): 算国内图片素材领导者?设计师寻找灵感的天堂！
++ [Simple-style](http://www.simple-style.com/): 艺术类（纯艺术类，视觉传达类，偏艺术的产品设计）
++ [Doooor](http://www.doooor.com/): 平面，插画，网页，作品欣赏和素材
++ [视觉中国设计师社区](http://www.shijue.me/): 视觉类
++ [酷站](http://www.zcool.com.cn/):国内比较好的灵感来源站点
++ [reeoo](http://reeoo.com/):感觉超级不错的一个站点!
 
 ## 图片
 
@@ -56,10 +65,14 @@ tags:
 + [Pixabay](https://pixabay.com/): 高质量的照片和免费版权照片-3
 + [Placehold.it](https://placeholder.com/): 快速简单的图像占位符服务。
 + [Imgur](http://imgur.com/): 互联网上内容有点乱但丰富的图网
-+ [Flickr](https://www.flickr.com/): 图片分享社区(国内可能需要翻墙)
++ [Flickr](https://www.flickr.com/): 图片分享社区 (国内可能需要翻墙)
 + [Randomuser.me](https://randomuser.me/photos): 所有随机生成的用户照片
 + [Depositphotos](https://cn.depositphotos.com/): 超过6000万高品质免版税图库图片和高清视频片段，以最实惠的价格满足您所有的创意需求。
 + [500px](https://500px.me/): 视觉中国500px.me摄影社区是一个致力于摄影分享、发现、售卖的专业平台，来自世界各地的摄影师是我们忠实的用户。
++ [别样网](http://www.ssyer.com/index_s_1_l_30.html): 中文图片网站,内容没有想象的全但是质量还不错
++ [Freeimages](http://cn.freeimages.com/): 拥有40+万张的免费照片和图像
++ [Everystockphoto](http://www.everystockphoto.com/): 适合各个专业，调研，找灵感，找素材必备
+
 
 ## 字体
 
@@ -100,7 +113,7 @@ tags:
 + [Colorzilla](http://colorzilla.com): 一款集合吸管、颜色选择、调色板等丰富功能的工具
 + [Brand Colors](http://brandcolors.net/): 网站收集了世界知名品牌、企业公司、网路服务使用的标准色，内建搜寻查找功能，还可以一键显示该颜色色码HEX值，并勾选你需要的品牌颜色来把色票档快速下载到电脑里，支援ASE（like ACO）、SCSS、LESS和CSS格式。
 
-## 图标
+## UI / Icon 图标
 
 + [Flat Icon](http://flaticon.com): 一个日本的免费扁平化设计图示网站，总数量大约有500个左右！网站提供的图示风格设计都很简约、可爱，非常适合使用于网页设计
 + [Font Awesome](http://fontawesome.io): 一款开源的字体图标库，拥有大量简洁优雅的图标
@@ -112,8 +125,13 @@ tags:
 + [Material Icons](https://material.io/icons/): Google提供免费Material icons矢量图示集，可自由用于个人或商业专案
 + [Pixellove](http://www.pixellove.com/free-ios-and-android-icons): 免费的图标，可以用在iOS标签栏、工具栏上，Android、Web、PPT里也可以使用
 + [Dribbble](https://dribbble.com/shots/1344983-Simple-Line-Icons-100-free-icons-Ai-Eps-Svg-Psd): 追波,不解释
-+ [Pixeden](https://www.pixeden.com/icons-set): pixeden的免费图标区
++ [Pixeden](https://www.pixeden.com/icons-set): pixeden的免费图标
 + [Streamlineicons](http://www.streamlineicons.com/) : 5000款图标,可以应用在应用程序,网站,iphone和安卓
++ [UI Parade](http://www.uiparade.com/): 灵感UI设计网是一个致力于设计师UI设计作品分享的网站,里面有丰富的优秀的设计作业.
++ [Louie Mantia](http://louiemantia.com/): apple设计站点，网站提供免费的icon图片和桌面以及UI设计下载和使用
++ [Lovely UI](http://www.lovelyui.com): 可爱的UI手机界面设计站点,一个致力于智能手机界面设计作品展示的博客网站
++ [UI中国](http://www.ui.cn/): 前身为iconfans,是国内专业的UI设计师交流、学习与展示的平台。
++ [Inspired UI](http://inspired-ui.com/): 移动应用设计方案
 
 ## 设计规范
 
@@ -139,3 +157,11 @@ tags:
 
 + [pack](http://www.pack.cn/): 中国包装网
 * [包装人](www.baozhuangren.com):有丰富的包装资源
+
+## Logo
++ [Rologo](http://www.rologo.com/):与logo有关
+
+
+
+>更新时间:
+          2017-9-23/11:41 -----: 添加更多的站点
