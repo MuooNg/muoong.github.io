@@ -48,6 +48,7 @@ tags:
 + [Thefwa](https://thefwa.com/): 主要展示graphic design(平面设计)
 + [MyDesy](https://pick.mydesy.com/): 创意人，每天从这里开始启动灵感
 + [Pixeden](https://www.pixeden.com/): 一个为设计师们提供免费和收费的设计素材及网络资源，网页模版、logo设计、平面设计等等
+
 ## 图片
 
 + [Unsplash.it](https://unsplash.it/): 这里有最好的免费版权照片-1
@@ -118,6 +119,7 @@ tags:
 
 + [iOS Human Interface Guidelines](https://developer.apple.com/ios/human-interface-guidelines/): 苹果设计规范
 + [Google Material Design](https://material.google.com/): Google设计规范
+
 ## 设计工具
 
 + [Sketch](http://sketchapp.com/): 国内有很多人在使用Sketch,没用过的可以去试一试.
@@ -136,3 +138,4 @@ tags:
 ## 包装设计
 
 + [pack](http://www.pack.cn/): 中国包装网
+* [包装人](www.baozhuangren.com):有丰富的包装资源
