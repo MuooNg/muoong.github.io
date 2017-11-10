@@ -13,17 +13,18 @@ tags:
 ---
 
 ----------
+
 我们要打开网页去看看外面的世界就离不开科学上网软件。从过去到现在，由于科学上网的用户需求基数庞大，所以科学上网的技术和方法以及科学上网软件也在不断的更新换代，尽管有那么多的方法，但是有些方法和软件一旦被广大用户使用和熟知，就会遭到封禁和无法使用的情况，所以这也就导致市面上好用的科学上网软件少之又少。
 不同的科学上网软件拥有各自的特性和技术，同时也存在免费和收费的科学上网服务。免费的科学上网服务由于国内墙越来越高,抓的力度越来越大，存在的已经为数不多,且大部分都有不稳定性和安全性(用过的深有体会吧?)。
 本文旨在为大家科学上网提供一种快速安全的方案指南参考，推荐一些最好用的海外付费科学上网软件服务。
+
 ----------
 # 第一种:付费翻墙软件
-适用人群：专业翻墙者、软件服务开发者、外贸工作者、记者、海外旅游者等人群。
-
+    适用人群：专业翻墙者、软件服务开发者、外贸工作者、记者、海外旅游者等人群。
    尽管我们在墙内，其实墙内有很多人或企业的工作环境其实是在墙外，他们每天面对的客户是外国人，每天交流的语言也是外语，所以每天都要通过翻墙来获取最基本的工作需求。所以对这部分人群来说，每日翻墙都已成为了习惯，并且对海外一些排名和流量比较高的网站访问需求很大，需要观看视频、下载视频、视频通话、资讯浏览，如果网络无法保证稳定快速，我想一定会疯掉。所以对这部分人群来说，网络的稳定性和流畅度以及限制性成为了首选标准，这类的软件基本是付费翻墙软件，这类人群基本用的也大都是VPN-虚拟私人网路(英文：Virtual Private Network，缩写为VPN)，接下来是一些值得推荐和使用的付费VPN翻墙软件。
 
 ## [1.ExpressVPN](https://www.expressvpn.com/)
-![expressvpn_review.jpg](img/it-img/expressvpn_review.jpg)
+![expressvpn_review.jpg](https://github.com/MuooNg/muoong.github.io/blob/master/img/it-img/expressvpn_review.jpg)
 
   推荐理由：  
   －稳定性：ExpreeVPN最大的优点是稳定快速和限制少。ExpressVPN的136台服务器遍布全球87个国家，所以让你上网也有了更多的选择，对于翻墙上网流量也没有做任何限制。在几次中国翻墙服务遭到封禁的事件中，ExpreessVPN都可以保持稳定。  
@@ -36,7 +37,7 @@ tags:
 
 
 ## [2.PureVPN](https://www.purevpn.com/order-now.php)
-![purevpn_review.jpg](img/it-img/purevpn_review.jpg)
+![purevpn_review.jpg](https://github.com/MuooNg/muoong.github.io/blob/master/img/it-img/purevpn_review.jpg)
 
   推荐理由：   
   －稳定性：PureVPN比较稳定，网速快。PureVPN超过450台服务器遍布全球101个国家，总共有80000+个IP地址，没有流量和速度的限制。同时为了支持中国用户使用者专门提供了中国用户的连接方式和服务器。    
@@ -49,7 +50,7 @@ tags:
 
 
 ## [3.NordVPN](https://nordvpn.com/zh/)  
-![nordvpn_review.jpg](img/it-img/nordvpn_review.jpg)
+![nordvpn_review.jpg](https://github.com/MuooNg/muoong.github.io/blob/master/img/it-img/nordvpn_review.jpg)
 推荐理由：
 －稳定性：NordVPN超过1000台VPN服务器遍布全球60多个国家和地区，没有流量和速度的限制。同时作为市面上为数不多的可以连接Nexflix、BBC等流媒体服务。支持双VPN。
 －安全性：NordVPN 从不记录您在互联网上的活动和访问的内容，具备强大加密选项，像是2048-bit SSL OpenVPN协议及AES 256-bit -CBC加密，支持OpenVPN、PPTP、L2TP及IPSec协议。
