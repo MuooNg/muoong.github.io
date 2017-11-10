@@ -35,6 +35,7 @@ tags:
 + [Design-milk](http://design-milk.com/): 一个致力于室内设计和室内装修效果分享的博客网站，提供了非常专业的室内设计新闻、建筑风格、装修风格等内容资源
 + [TheFWA](https://thefwa.com/): FWA的使命是向人们展示最前沿的创意，无论是使用媒介或技术
 + [资料视觉化](http://blog.infographics.tw/): 个人博客,只更新到2016年,之后成为失踪人口之一
++ [AD110](http://ad110.com/):是中文（华文）创意、设计、艺术、广告人群最受推崇的互联网专业品牌之一，拥有全球最丰富的创意、艺术、设计和广告资源。
 
 ## 灵感/优秀设计站点
 
@@ -160,13 +161,19 @@ tags:
 + [包装人](www.baozhuangren.com): 有丰富的包装资源
 + [Pinterest](https://www.pinterest.com/search/pins/?q=packaging%20design%20ideas&rs=typed&term_meta[]=packaging%7Ctyped&term_meta[]=design%7Ctyped&term_meta[]=ideas%7Ctyped):packaging design ideas
 + [Pinterest](https://www.pinterest.com/search/pins/?q=Packaging%20%26%20Dielines&rs=typed&term_meta[]=Packaging%7Ctyped&term_meta[]=%26%7Ctyped&term_meta[]=Dielines%7Ctyped):Packaging & Dielines
-+ [Lovely package](http://lovelypackage.com/):
-+ [TheDieline](http://www.thedieline.com/):为设计师们提供丰富的产品包装案例欣赏和包装设计评论，分享世界级的经典包装设计趋势和设计灵感
++ [Lovely Package](http://lovelypackage.com/): 在近十年中，包装设计杂志是所有包装设计的绝佳资源。该网站的工作来自全球各地的设计师，最新的行业新闻，即将到来的人才等等，你还需要什么呢？（英文）
++ [The Dieline](http://www.thedieline.com/): 为设计师们提供丰富的产品包装案例欣赏和包装设计评论，分享世界级的经典包装设计趋势和设计灵感
++ [Packaging  of the World](http://www.packagingoftheworld.com/): Packaging of the World是一个创意设计画廊，展示世界各地最有趣和创造性的作品。这个网站组织得很好，你可以选择按类别搜索：国家，学生作品，最受欢迎等搜索项目，所以它适合每个人。
++ [Designspiration](https://www.designspiration.net/search/saves/?q=packaging): 各种各样的创意一起出现在Designspiration。 Designspiration网站是由Shelby White创建，是收集和分享想法的中心，包括一整套有趣和创新的包装设计。
++ [CreateID](http://www.createid.com/): 这个辉煌的博客收集了来自世界各地最好的包装设计，新闻和文章。它没有定期更新，但是在这里发布的一切是绝对值得一看。
++ [Package Design](http://www.bxpmagazine.com/welcome-bxp): 在近十年中，包装设计杂志是所有包装设计的绝佳资源。该网站的工作来自全球各地的设计师，最新的行业新闻，即将到来的人才等等，你还需要什么呢？
++ [Retail design blog](http://retaildesignblog.net/category/branding/packaging-branding/): Retail design blog有一个巨大的包装设计项目的档案来给你无限的灵感。 在这里，你可以找到从精致的酒精品牌到奢侈巧克力包装的一切。
 ## Logo
 + [Rologo](http://www.rologo.com/):与logo有关
 
 ## 工具
 + [在线转换](https://convertio.co/zh/):支持很多格式
+
 
 
 >更新时间:
