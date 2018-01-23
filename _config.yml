@@ -87,9 +87,10 @@ service-worker: true
 # Friends
 friends: [
     {
-    #     title: "Su",
-    #     href: "http://su.gallery/"
-    # },{
+        title: "MuooNG和木子的故事",
+        href: "https://muoong.com/TUMU.html"
+     },
+    {
         title: "Hux",
         href: "https://huangxuan.me/"
     }
