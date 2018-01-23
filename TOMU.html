@@ -5,6 +5,40 @@
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 -->
 <html>
+    <body>
+
+        <SCRIPT LANGUAGE="JavaScript">
+            function password() 
+            {
+                var testV = 1;
+                var pass1 = prompt('请输入密码:','');
+				while (testV <3) 
+                {
+                    if (!pass1)
+                    history.go(-1);
+                    if (pass1 == "2526") 
+                    {
+                        alert('密码正确!');
+                        break;
+                    }
+                    testV+=1;
+                    var pass1 =
+                    prompt('密码错误!请重新输入:');
+                }
+                if (pass1!="password" & testV ==3)
+                history.go(-1);
+                return " ";
+            }
+            document.write(password());
+		</SCRIPT>
+      
+
+        
+<script language="Javascript"> 
+document.oncontextmenu=new Function("event.returnValue=false"); 
+document.onselectstart=new Function("event.returnValue=false"); 
+</script>
+
 	<head>
 		<title>MUoong和木子小的小屋</title>
 		<meta charset="utf-8" />
@@ -13,6 +47,27 @@
 		<link rel="stylesheet" href="assets/css/main.css" />
 		<!--[if lte IE 9]><link rel="stylesheet" href="assets/css/ie9.css" /><![endif]-->
 		<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
+<!-- F12开始 -->
+		function disableInfo() {  
+    document.onkeydown = function() {  
+        var e = window.event || arguments[0];  
+        //屏蔽F12  
+        if(e.keyCode == 123) {  
+            return false;  
+            //屏蔽Ctrl+Shift+I  
+        } else if((e.ctrlKey) && (e.shiftKey) && (e.keyCode == 73)) {  
+            return false;  
+            //屏蔽Shift+F10  
+        } else if((e.shiftKey) && (e.keyCode == 121)){  
+            return false;  
+        }  
+    };  
+    //屏蔽右键单击  
+    document.oncontextmenu = function() {  
+        return false;  
+    }  
+}  
+<!-- 到这是禁用F12 -->
 	</head>
 	<body>
 		<div id="page-wrapper">
@@ -64,7 +119,7 @@
 										</section>
 										<hr />
 										<section>
-											<a href="#" class="image fit"><img src="muoong.github.io/img/for-you/about-you1.jpg " alt="" /></a>
+											<a href="#" class="image fit"><img src="muoong.github.io/img/for-you/about-you 1.jpg " alt="" /></a>
 											<h3>File Transfer 记录</h3>
 											<p>分手一年后，突然的，你说你出差来广州，很高兴你能出差来到南方，也让我能再次见到你。 <br>
 											  最后一天，可能和你见面的时间只有几十分钟。如果可以用生命再去换更多时间，那一定要去兑换。
@@ -117,7 +172,7 @@
 						<li><a href="https://twitter.com/Mu_gongzi" class="icon alt fa-twitter"><span class="label">Twitter</span></a></li>
 						<li><a href="https://www.facebook.com/Mu00NG" class="icon alt fa-facebook"><span class="label">Facebook</span></a></li>
 						<li><a href="https://github.com/MuooNG" class="icon alt fa-github"><span class="label">GitHub</span></a></li>
-						<li><a href="Muoong@muoong.com" class="icon alt fa-envelope"><span class="label">Email</span></a></li>
+						<li><a href="mailto:Muoong@muoong.com" class="icon alt fa-envelope"><span class="label">Email</span></a></li>
 					</ul>
 					<ul class="copyright">
 						<li>&copy; Untitled. Muoong Blog 2018 .</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
@@ -135,6 +190,5 @@
 			<script src="assets/js/util.js"></script>
 			<!--[if lte IE 8]><script src="assets/js/ie/respond.min.js"></script><![endif]-->
 			<script src="assets/js/main.js"></script>
-
-	</body>
 </html>
+	</body>
