@@ -2,7 +2,7 @@
 layout:     post
 title:        VIS-视觉识别系统
 subtitle:  在校结课作业Visual Identity System
-date:         2018-03-11 23:59:00
+date:         2018-03-11 12:59:00
 author:     MuooNG
 header-img: img/life-1.jpg
 catalog: true
