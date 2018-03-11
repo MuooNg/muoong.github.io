@@ -1,0 +1,44 @@
+---
+layout:     post
+title:        VIS-视觉识别系统
+subtitle:  在校结课作业Visual Identity System
+date:         2018-03-11 23:59:00
+author:     MuooNG
+header-img: img/life-1.jpg
+catalog: true
+tags:
+    - 个人
+    - 作品
+    - 设计
+---
+VI设计课程的结课作业,一套完整的VIS,课内参考了老师的规范的同时,也另外参考呃Google和Microsoft的规范
+前期准备了很多的不成熟想法,并大部分时间都是我们自己学习去寻找资料.
+效果大致如下:
+----------
+![sunmar_0.jpg](https://github.com/MuooNg/muoong.github.io/raw/master/img/it-img/sunmar_0.jpg)
+![sunmar_1.jpg](https://github.com/MuooNg/muoong.github.io/raw/master/img/it-img/sunmar_1.jpg)
+![sunmar_2.jpg](https://github.com/MuooNg/muoong.github.io/raw/master/img/it-img/sunmar_2.jpg)
+![sunmar_3.jpg](https://github.com/MuooNg/muoong.github.io/raw/master/img/it-img/sunmar_3.jpg)
+![sunmar_4.jpg](https://github.com/MuooNg/muoong.github.io/raw/master/img/it-img/sunmar_4.jpg)
+![sunmar_5.jpg](https://github.com/MuooNg/muoong.github.io/raw/master/img/it-img/sunmar_5.jpg)
+![sunmar_6.jpg](https://github.com/MuooNg/muoong.github.io/raw/master/img/it-img/sunmar_6.jpg)
+![sunmar_7.jpg](https://github.com/MuooNg/muoong.github.io/raw/master/img/it-img/sunmar_7.jpg)
+![sunmar_8.jpg](https://github.com/MuooNg/muoong.github.io/raw/master/img/it-img/sunmar_8.jpg)
+![sunmar_9.jpg](https://github.com/MuooNg/muoong.github.io/raw/master/img/it-img/sunmar_9.jpg)
+![sunmar_10.jpg](https://github.com/MuooNg/muoong.github.io/raw/master/img/it-img/sunmar_10.jpg)
+![sunmar_11.jpg](https://github.com/MuooNg/muoong.github.io/raw/master/img/it-img/sunmar_11.jpg)
+![sunmar_12.jpg](https://github.com/MuooNg/muoong.github.io/raw/master/img/it-img/sunmar_12.jpg)
+![sunmar_13.jpg](https://github.com/MuooNg/muoong.github.io/raw/master/img/it-img/sunmar_13.jpg)
+![sunmar_14.jpg](https://github.com/MuooNg/muoong.github.io/raw/master/img/it-img/sunmar_14.jpg)
+![sunmar_15.jpg](https://github.com/MuooNg/muoong.github.io/raw/master/img/it-img/sunmar_15.jpg)
+![sunmar_16.jpg](https://github.com/MuooNg/muoong.github.io/raw/master/img/it-img/sunmar_16.jpg)
+![sunmar_17.jpg](https://github.com/MuooNg/muoong.github.io/raw/master/img/it-img/sunmar_17.jpg)
+![sunmar_18.jpg](https://github.com/MuooNg/muoong.github.io/raw/master/img/it-img/sunmar_18.jpg)
+![sunmar_19.jpg](https://github.com/MuooNg/muoong.github.io/raw/master/img/it-img/sunmar_19.jpg)
+![sunmar_20.jpg](https://github.com/MuooNg/muoong.github.io/raw/master/img/it-img/sunmar_20.jpg)
+![sunmar_21.jpg](https://github.com/MuooNg/muoong.github.io/raw/master/img/it-img/sunmar_21.jpg)
+![sunmar_22.jpg](https://github.com/MuooNg/muoong.github.io/raw/master/img/it-img/sunmar_22.jpg)
+![sunmar_23.jpg](https://github.com/MuooNg/muoong.github.io/raw/master/img/it-img/sunmar_23.jpg)
+![sunmar_24.jpg](https://github.com/MuooNg/muoong.github.io/raw/master/img/it-img/sunmar_24.jpg)
+![sunmar_25.jpg](https://github.com/MuooNg/muoong.github.io/raw/master/img/it-img/sunmar_25.jpg)
+![sunmar_26.jpg](https://github.com/MuooNg/muoong.github.io/raw/master/img/it-img/sunmar_26.jpg)
