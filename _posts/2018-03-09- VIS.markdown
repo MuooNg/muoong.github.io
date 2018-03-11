@@ -4,7 +4,7 @@ title:        VIS-视觉识别系统
 subtitle:  在校结课作业Visual Identity System
 date:         2018-03-11 12:59:00
 author:     MuooNG
-header-img: img/life-1.jpg
+header-img: img/VIS-1.jpg
 catalog: true
 tags:
     - 个人
@@ -41,4 +41,3 @@ VI设计课程的结课作业,一套完整的VIS,课内参考了老师的规范�
 ![sunmar_23.jpg](https://github.com/MuooNg/muoong.github.io/raw/master/img/it-img/sunmar_23.jpg)
 ![sunmar_24.jpg](https://github.com/MuooNg/muoong.github.io/raw/master/img/it-img/sunmar_24.jpg)
 ![sunmar_25.jpg](https://github.com/MuooNg/muoong.github.io/raw/master/img/it-img/sunmar_25.jpg)
-![sunmar_26.jpg](https://github.com/MuooNg/muoong.github.io/raw/master/img/it-img/sunmar_26.jpg)
