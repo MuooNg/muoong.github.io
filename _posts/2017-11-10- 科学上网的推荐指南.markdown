@@ -74,11 +74,7 @@ tags:
   搬瓦工——性价比最高的VPS提供商   
   更为具体的介绍在这里：[搬瓦工介绍优惠码](https://www.vpszh.com/%E6%90%AC%E7%93%A6%E5%B7%A5vps%E4%BB%8B%E7%BB%8D%E4%BC%98%E6%83%A0%E7%A0%81)
 
-## [2.Shadowsocks](https://goo.gl/0ZWhm4)
-  **注意!这里的Shadowsocks只是服务提供商**  
-  研究过的人知道这是什么,我这里将给小白听,勿喷.      
-另一个Shadowsocks 是开源的轻量级服务器中转包传输工具，该软件在中国大陆一般被当作socks5 代理服务器来突破被中国大陆官方建立的防火长城所屏蔽的网络服务。(已经被封杀的软件,但有他人接手更新.它的原理是：假设我们有一台在美国的服务器，我们可以在它上面安装ss的服务端。之后我们在我们的系统上安装ss的客户端，这样客户端就可以与服务端通信并交换数据。)
 
-## [3.Linode](https://www.vpszh.com/goto/g8t4)
+## [2.Linode](https://www.vpszh.com/goto/g8t4)
   Linode——老牌稳定的VPS提供商   
   更为具体的介绍在这里：[Linode介绍优惠码](https://www.vpszh.com/linodevps%E4%BB%8B%E7%BB%8D%E4%BC%98%E6%83%A0%E7%A0%81)
