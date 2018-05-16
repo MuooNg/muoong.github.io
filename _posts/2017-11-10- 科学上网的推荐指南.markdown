@@ -64,17 +64,13 @@ tags:
 
 
 
-# 第二类: 高级翻墙软件/服务器
+# 第二类: 服务器
 适用人群：极客、程序猿、电脑技术发烧友等人技术类群。  
   高级翻墙软件由于需要一些电脑知识，如果你是一名精通电脑技术者（相关术语：SSH、Linux、VPS等），对于高级翻墙者来说，对于翻墙网络的稳定性和速度有很高的要求，自己动手，丰衣足食。  
-**你都是精通电脑技术者了,还要我推荐什么?(逃**
-  但还是推几个我用的服务器提供商,或者知道比较好的软件.
-
-## [1.BandwagonHost](https://bandwagonhost.com/aff.php?aff=15460)  
-  搬瓦工——性价比最高的VPS提供商   
-  更为具体的介绍在这里：[搬瓦工介绍优惠码](https://www.vpszh.com/%E6%90%AC%E7%93%A6%E5%B7%A5vps%E4%BB%8B%E7%BB%8D%E4%BC%98%E6%83%A0%E7%A0%81)
+**你都是精通电脑技术者了,还要我推荐?**
+  推几个我正在使用的服务器提供商,或者知道比较好的软件.
 
 
-## [2.Linode](https://www.vpszh.com/goto/g8t4)
+## [1.Linode](https://www.vpszh.com/goto/g8t4)
   Linode——老牌稳定的VPS提供商   
   更为具体的介绍在这里：[Linode介绍优惠码](https://www.vpszh.com/linodevps%E4%BB%8B%E7%BB%8D%E4%BC%98%E6%83%A0%E7%A0%81)
