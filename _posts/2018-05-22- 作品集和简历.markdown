@@ -16,4 +16,4 @@ tags:
 
 + [简历](https://github.com/MuooNg/muoong.github.io/raw/master/个人简历-201804.jpg): 个人简历下载
 
-+ [作品集](https://github.com/MuooNg/muoong.github.io/raw/master/作品集 吴伟松 2018.pdf): 作品集下载
++ [作品集](https://github.com/MuooNg/muoong.github.io/raw/master/作品集吴伟松2018.pdf) : 作品集下载
