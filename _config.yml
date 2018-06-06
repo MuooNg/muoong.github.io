@@ -3,8 +3,8 @@ title: Muoong Blog
 SEOTitle: MUNG的博客 | MuooNG Blog
 header-img: img/post-bg-desk.jpg
 email: mgz.sns@outlook.com
-description: "发呆的好地方,分享自己的生活的另一个好地方 | | 这里是 木NG 的个人博客，与你一起分享设计与生活。"
-keyword: "MUNG, Muoong Blog, 木少的博客, wuweisong, 吴伟松,设计平面,视觉传达艺术设计,设计"
+description: "这里记录，自己的生活。其它，缘浅缘深，珍惜就好。"
+keyword: "MuNg, MuooNg Blog, 木失先生, wuweisong, 吴伟松,设计平面,视觉传达艺术设计,设计"
 url: "https://muoong.com"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
@@ -67,7 +67,7 @@ ga_domain: muoong.com
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "发呆的地方,分享自己的生活的好地方，<br>在离开世界之前，一切皆是过程"
+sidebar-about-description: "这里记录，自己的生活。其它，缘浅缘深，珍惜就好。<br>另外，I still need your."
 sidebar-avatar: /img/about-MU-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
@@ -87,7 +87,7 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "MuooNG和木子的故事",
+        title: "木失先生和木沐穆的故事",
         href: "http://muoong.com/TOMU.html"
      },
     {
