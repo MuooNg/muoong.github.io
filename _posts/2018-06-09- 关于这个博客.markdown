@@ -16,5 +16,5 @@ tags:
 ----------
 关于博客我是为了一个女生搭建的，本想着写些设计内容以外还可以谢谢生活中和她的故事。但殊不知，这一切都没有了意义。
 （待更新）
- <embed src="http://music.163.com/m/song?id=454698092&userid=454763447" type="application/x-shockwave-flash" width="257" height="33" wmode="transparent">
- </embed>
+<object width="340" height="86" data="http://music.163.com/style/swf/widget.swf?sid=454763447&type=2&auto=0&width=320&height=66"
+type="application/x-shockwave-flash"></object>
