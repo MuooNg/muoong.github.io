@@ -16,4 +16,5 @@ tags:
 ----------
 关于博客我是为了一个女生搭建的，本想着写些设计内容以外还可以谢谢生活中和她的故事。但殊不知，这一切都没有了意义。
 （待更新）
-<div align=center><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="muoong.github.io/inbox/Lights & Motion - Anomaly.mp3"></iframe></div>
+ <embed src="http://music.163.com/m/song?id=454698092&userid=454763447" type="application/x-shockwave-flash" width="257" height="33" wmode="transparent">
+ </embed>
