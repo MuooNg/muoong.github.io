@@ -4,13 +4,14 @@ title:        Cinema 4D
 subtitle:  Maxon CINEMA 4D Studio R19的安装和下载
 date:         2018-06-30 17:59:00
 author:     MuooNG
-header-img: https://github.com/MuooNg/muoong.github.io/blob/master/img/inbox/C4D/Layer.jpg?raw=true
+header-img: img/layer.jpg
 catalog: true
 tags:
     - 个人
     - 软件
     - C4D
----
+
+------
 R19 Complete Feature List - MAXON - Cinema 4D：[官方地址](https://www.maxon.net/en/products/new-in-release-19/r19-complete-feature-list/)    
 此软件“仅限学习交流，不能用于商业用途”，如用于商业用途，请到官方购买正版软件，追究法律责任与本人无关。
 
@@ -58,16 +59,19 @@ C4D R19 下载地址：关注公众号可获得下载地址
 
 ![2.jpg](https://github.com/MuooNg/muoong.github.io/blob/master/img/inbox/C4D/2.png?raw=true)
 
-`4.选择安装类型，我们默认就好，单击-继续：``
+`4.选择安装类型，我们默认就好，单击-继续：`
 
 ![1.jpg](https://github.com/MuooNg/muoong.github.io/blob/master/img/inbox/C4D/1.png?raw=true)
 
-`5.特性介绍，看看就好，单击-继续：``
-`6.勾选“我已经阅读并同意许可”，单击-继续：``
-`7.选择软件的安装目录，默认为“C:\Program Files\MAXON\Cinema 4D R19”，如有需要可以更改，以及是否在桌面上创建图标，因为习惯使用win10 的开始菜单所以我并没有勾选，单击-继续：``
-`8.之后就是安装，安装完成，勾选“开始Cinema 4D”后点击-结束:``
+`5.特性介绍，看看就好，单击-继续：`  
+
+`6.勾选“我已经阅读并同意许可”，单击-继续：`  
+
+`7.选择软件的安装目录，默认为“C:\Program Files\MAXON\Cinema 4D R19”，如有需要可以更改，以及是否在桌面上创建图标，因为习惯使用win10 的开始菜单所以我并没有勾选，单击-继续：`  
+
+`8.之后就是安装，安装完成，勾选“开始Cinema 4D”后点击-结束:`
 
 ![6.jpg](https://github.com/MuooNg/muoong.github.io/blob/master/img/inbox/C4D/6.png?raw=true)
 
-`9.软件打开后你可以看到默认的是英文界面，这时使用快捷键“Ctrl+E”打开设置界面，找到“language”，选择“Chinese（cnL）”，然后关闭软件重启即可更改为中文界面。整个破解也就完成了``
+`9.软件打开后你可以看到默认的是英文界面，这时使用快捷键“Ctrl+E”打开设置界面，找到“language”，选择“Chinese（cnL）”，然后关闭软件重启即可更改为中文界面。整个破解也就完成了`
 （~~是不是很简单！傻瓜都会hhh！记得给打赏噢！有零花钱我还是很开心的！（逃~~）
