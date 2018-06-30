@@ -4,7 +4,7 @@ title:        Cinema 4D
 subtitle:  Maxon CINEMA 4D Studio R19的安装和下载
 date:         2018-06-30 17:59:00
 author:     MuooNG
-header-img: img\inbox\Layer.jpg
+header-img: https://github.com/MuooNg/muoong.github.io/blob/master/img/inbox/C4D/Layer.jpg?raw=true
 catalog: true
 tags:
     - 个人
@@ -23,18 +23,19 @@ Cinema 4D在国内这几年才开始火起来，C4D能做出强大的建模和�
 ### 相关下载
 C4D安装程序 KERNEL32.dll 报错解决方法(去微软下载系统补丁)：[点击此链接下载](https://support.microsoft.com/zh-cn/kb/2533623/)   
 C4D R19 下载地址：关注公众号可获得下载地址   
-![MyQRCode.jpg](https://github.com/MuooNg/muoong.github.io/blob/master/img/inbox/MyQRCode.jpg)
+![MyQRCode.jpg](https://github.com/MuooNg/muoong.github.io/blob/master/img/inbox/MyQRCode.jpg?raw=true)
 
 ### 安装教程
 
-![0.jpg](muoong.github.io/img/inbox/C4D/0.png)
+![0.png](https://github.com/MuooNg/muoong.github.io/blob/master/img/inbox/C4D/0.png?raw=true)
 
-1.在公众号上拿到链接下载好软件安装包，将其解压出来后运行“R19_Install_Web_Win”文件夹下面的“MAXON-Start.exe”，选择安装语言“CN-Chinese”，点击“OK”    
-2.进入安装页面后，单击-继续：   
+`1.在公众号上拿到链接下载好软件安装包，将其解压出来后运行“R19_Install_Web_Win”文件夹下面的“MAXON-Start.exe”，选择安装语言“CN-Chinese”，点击“OK”``
 
-![5.jpg](https://github.com/MuooNg/muoong.github.io/raw/master/img/muoong.github.io\img\inbox\C4D\5.jpg)
+`2.进入安装页面后，单击-继续：``
 
-3.下一个页面会遇到要求填入：名称/公司/街道/城市/国家和激活码的界面，这时候你可以随便填入信息以及下方任意激活码，完成后单击-继续：   
+![5.png](https://github.com/MuooNg/muoong.github.io/blob/master/img/inbox/C4D/5.png?raw=true)
+
+`3.下一个页面会遇到要求填入：名称/公司/街道/城市/国家和激活码的界面，这时候你可以随便填入信息以及下方任意激活码，完成后单击-继续：``
 ```
 14904004122-MDLZ-WXMP-DPNL-PNMD-LTFR-MNJB   
 14904084537-KGKS-STTG-DLHL-FPMJ-MBZF-CVKJ   
@@ -55,17 +56,18 @@ C4D R19 下载地址：关注公众号可获得下载地址
 14904088693-TVKF-XTGH-XTWP-VZWD-MJKK-KWXW   
 ```
 
-![2.jpg](https://github.com/MuooNg/muoong.github.io/raw/master/img/muoong.github.io\img\inbox\C4D\2.jpg)
+![2.jpg](https://github.com/MuooNg/muoong.github.io/blob/master/img/inbox/C4D/2.png?raw=true)
 
-4.选择安装类型，我们默认就好，单击-继续：     
+`4.选择安装类型，我们默认就好，单击-继续：``
 
-![1.jpg](https://github.com/MuooNg/muoong.github.io/raw/master/img/muoong.github.io\img\inbox\C4D\1.jpg)
+![1.jpg](https://github.com/MuooNg/muoong.github.io/blob/master/img/inbox/C4D/1.png?raw=true)
 
-5.特性介绍，看看就好，单击-继续：     
-6.勾选“我已经阅读并同意许可”，单击-继续：     
-7.选择软件的安装目录，默认为“C:\Program Files\MAXON\Cinema 4D R19”，如有需要可以更改，以及是否在桌面上创建图标，因为习惯使用win10 的开始菜单所以我并没有勾选，单击-继续：    
-8.之后就是安装，安装完成，勾选“开始Cinema 4D”后点击-结束：   
+`5.特性介绍，看看就好，单击-继续：``
+`6.勾选“我已经阅读并同意许可”，单击-继续：``
+`7.选择软件的安装目录，默认为“C:\Program Files\MAXON\Cinema 4D R19”，如有需要可以更改，以及是否在桌面上创建图标，因为习惯使用win10 的开始菜单所以我并没有勾选，单击-继续：``
+`8.之后就是安装，安装完成，勾选“开始Cinema 4D”后点击-结束:``
 
-![6.jpg](https://github.com/MuooNg/muoong.github.io/raw/master/img/muoong.github.io\img\inbox\C4D\6.jpg)
+![6.jpg](https://github.com/MuooNg/muoong.github.io/blob/master/img/inbox/C4D/6.png?raw=true)
 
-9.软件打开后你可以看到默认的是英文界面，这时使用快捷键“Ctrl+E”打开设置界面，找到“language”，选择“Chinese（cnL）”，然后关闭软件重启即可更改为中文界面。整个破解也就完成了（~~是不是很简单！傻瓜都会hhh！记得给打赏噢！有零花钱我还是很开心的！（逃~~）
+`9.软件打开后你可以看到默认的是英文界面，这时使用快捷键“Ctrl+E”打开设置界面，找到“language”，选择“Chinese（cnL）”，然后关闭软件重启即可更改为中文界面。整个破解也就完成了``
+（~~是不是很简单！傻瓜都会hhh！记得给打赏噢！有零花钱我还是很开心的！（逃~~）
