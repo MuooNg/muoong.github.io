@@ -1,0 +1,71 @@
+---
+layout:     post
+title:        Cinema 4D
+subtitle:  Maxon CINEMA 4D Studio R19的安装和下载
+date:         2018-06-30 17:59:00
+author:     MuooNG
+header-img: img\inbox\Layer.jpg
+catalog: true
+tags:
+    - 个人
+    - 软件
+    - C4D
+---
+R19 Complete Feature List - MAXON - Cinema 4D：[官方地址](https://www.maxon.net/en/products/new-in-release-19/r19-complete-feature-list/)    
+此软件“仅限学习交流，不能用于商业用途”，如用于商业用途，请到官方购买正版软件，追究法律责任与本人无关。
+
+Cinema 4D在国内这几年才开始火起来，C4D能做出强大的建模和渲染效果，这个是行业所公认的。加上界面的友好，操作的简单易上手，不需要很高配置的电脑就可以流畅运行，功能和预设也非常强大。相对于3DMAX & MAYA它能在你学习它的初期减少你的学习成本，学一个星期你就能跟着教程做小动画，学半个月你就能独立做一些简单小动画。
+
+使用过的小伙伴肯定知道C4D的强大之处，还没使用过的萌新可以去尝试去玩一下噢~下面是破解和安装的教程。
+
+----------
+
+### 相关下载
+C4D安装程序 KERNEL32.dll 报错解决方法(去微软下载系统补丁)：[点击此链接下载](https://support.microsoft.com/zh-cn/kb/2533623/)   
+C4D R19 下载地址：关注公众号可获得下载地址   
+![MyQRCode.jpg](https://github.com/MuooNg/muoong.github.io/raw/master/img/muoong.github.io\img\inbox\MyQRCode.jpg)
+
+### 安装教程
+
+![0.jpg](https://github.com/MuooNg/muoong.github.io/raw/master/img/muoong.github.io\img\inbox\C4D\0.jpg)
+
+1.在公众号上拿到链接下载好软件安装包，将其解压出来后运行“R19_Install_Web_Win”文件夹下面的“MAXON-Start.exe”，选择安装语言“CN-Chinese”，点击“OK”    
+2.进入安装页面后，单击-继续：   
+
+![5.jpg](https://github.com/MuooNg/muoong.github.io/raw/master/img/muoong.github.io\img\inbox\C4D\5.jpg)
+
+3.下一个页面会遇到要求填入：名称/公司/街道/城市/国家和激活码的界面，这时候你可以随便填入信息以及下方任意激活码，完成后单击-继续：   
+```
+14904004122-MDLZ-WXMP-DPNL-PNMD-LTFR-MNJB   
+14904084537-KGKS-STTG-DLHL-FPMJ-MBZF-CVKJ   
+14904021022-TNJK-PHJH-KDBL-HPRJ-CBDN-NDSF   
+14904029453-BGLX-BFFX-KHZV-VKVC-SXZK-RZZR   
+14904096285-TFHT-HZSJ-NDJV-NFJK-RPGC-ZRLW   
+14904052079-MGSG-DVLH-DZDZ-JMRC-LDRZ-VKCZ   
+14904055569-SLCC-XMSP-GMBH-CKLN-DSTL-KPTW   
+14904002270-CGKW-LWNN-XKCR-XJPX-BXFW-SLTG   
+14904040363-DJHB-XVHL-SPWR-WCJL-KMLF-BXJJ   
+14904070388-DRXW-XGNZ-KMGG-PBBZ-HFHJ-PHSM   
+14904026446-FXBM-JSTM-NCMM-FMBG-RJZZ-RBNS   
+14904002063-FSTM-WPMT-XHBJ-CMGG-PJNN-TMHK   
+14904010016-GPVH-XTDG-JGTX-RBMT-LCJN-VMSB   
+14904090351-GRPR-RWMF-ZCFD-BCGP-HKKM-NBBL   
+14904076064-MPMS-BFBD-DHCD-GKGD-WJGX-WFLT   
+14904055703-NLZW-WSXX-DHJX-PKZL-KKJW-HNLJ   
+14904088693-TVKF-XTGH-XTWP-VZWD-MJKK-KWXW   
+```
+
+![2.jpg](https://github.com/MuooNg/muoong.github.io/raw/master/img/muoong.github.io\img\inbox\C4D\2.jpg)
+
+4.选择安装类型，我们默认就好，单击-继续：     
+
+![1.jpg](https://github.com/MuooNg/muoong.github.io/raw/master/img/muoong.github.io\img\inbox\C4D\1.jpg)
+
+5.特性介绍，看看就好，单击-继续：     
+6.勾选“我已经阅读并同意许可”，单击-继续：     
+7.选择软件的安装目录，默认为“C:\Program Files\MAXON\Cinema 4D R19”，如有需要可以更改，以及是否在桌面上创建图标，因为习惯使用win10 的开始菜单所以我并没有勾选，单击-继续：    
+8.之后就是安装，安装完成，勾选“开始Cinema 4D”后点击-结束：   
+
+![6.jpg](https://github.com/MuooNg/muoong.github.io/raw/master/img/muoong.github.io\img\inbox\C4D\6.jpg)
+
+9.软件打开后你可以看到默认的是英文界面，这时使用快捷键“Ctrl+E”打开设置界面，找到“language”，选择“Chinese（cnL）”，然后关闭软件重启即可更改为中文界面。整个破解也就完成了（~~是不是很简单！傻瓜都会hhh！记得给打赏噢！有零花钱我还是很开心的！（逃~~）
