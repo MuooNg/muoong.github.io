@@ -23,11 +23,11 @@ Cinema 4D在国内这几年才开始火起来，C4D能做出强大的建模和�
 ### 相关下载
 C4D安装程序 KERNEL32.dll 报错解决方法(去微软下载系统补丁)：[点击此链接下载](https://support.microsoft.com/zh-cn/kb/2533623/)   
 C4D R19 下载地址：关注公众号可获得下载地址   
-![MyQRCode.jpg](https://github.com/MuooNg/muoong.github.io/raw/master/img/muoong.github.io\img\inbox\MyQRCode.jpg)
+![MyQRCode.jpg](https://github.com/MuooNg/muoong.github.io/blob/master/img/inbox/MyQRCode.jpg)
 
 ### 安装教程
 
-![0.jpg](https://github.com/MuooNg/muoong.github.io/raw/master/img/muoong.github.io\img\inbox\C4D\0.jpg)
+![0.jpg](muoong.github.io/img/inbox/C4D/0.png)
 
 1.在公众号上拿到链接下载好软件安装包，将其解压出来后运行“R19_Install_Web_Win”文件夹下面的“MAXON-Start.exe”，选择安装语言“CN-Chinese”，点击“OK”    
 2.进入安装页面后，单击-继续：   
