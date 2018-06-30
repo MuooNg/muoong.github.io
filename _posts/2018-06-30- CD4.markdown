@@ -4,7 +4,7 @@ title:        Cinema 4D 安装和下载
 subtitle:  Maxon CINEMA 4D Studio R19的安装和下载
 date:         2018-06-30 17:59:00
 author:     MuooNG
-header-img: img/layer.jpg
+header-img: img/Layer.jpg
 catalog: true
 tags:
     - 个人
