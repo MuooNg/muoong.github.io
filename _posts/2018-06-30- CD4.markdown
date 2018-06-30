@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:        Cinema 4D
+title:        Cinema 4D 安装和下载
 subtitle:  Maxon CINEMA 4D Studio R19的安装和下载
 date:         2018-06-30 17:59:00
 author:     MuooNG
@@ -10,9 +10,9 @@ tags:
     - 个人
     - 软件
     - C4D
-
-------
-R19 Complete Feature List - MAXON - Cinema 4D：[官方地址](https://www.maxon.net/en/products/new-in-release-19/r19-complete-feature-list/)    
+---
+----------
+R19 Complete Feature List - MAXON - Cinema 4D：[官方入口](https://www.maxon.net/en/products/new-in-release-19/r19-complete-feature-list/)    
 此软件“仅限学习交流，不能用于商业用途”，如用于商业用途，请到官方购买正版软件，追究法律责任与本人无关。
 
 Cinema 4D在国内这几年才开始火起来，C4D能做出强大的建模和渲染效果，这个是行业所公认的。加上界面的友好，操作的简单易上手，不需要很高配置的电脑就可以流畅运行，功能和预设也非常强大。相对于3DMAX & MAYA它能在你学习它的初期减少你的学习成本，学一个星期你就能跟着教程做小动画，学半个月你就能独立做一些简单小动画。
